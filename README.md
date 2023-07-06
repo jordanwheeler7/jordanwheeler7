@@ -2,6 +2,7 @@
 
 - I am Jordan Wheeler @jordanwheeler7
 - I am currently a TSgt in the United States Air Force. ✈️
+- I teach for the Community College of the Air Force. 👨‍🏫
 - I am studying for a MS in Data Analytics at Northwest Missouri State 🧑‍🎓
 - The languages I am learning are Python, SQL, and R. 🌱
 - I have experience working with visualizations in Tableau, Power BI, and Excel.
