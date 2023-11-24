@@ -18,3 +18,4 @@
 |CSIS 44620: Web Mining and Applied Natural Language Processing| https://github.com/jordanwheeler7/CSIS-44620-Final-Project|
 |CSIS 44630: Continuous Intelligence and Interactive Analytics - Reactive Apps| https://github.com/jordanwheeler7/cintel-final2|
 |Shiny Web Application Final| https://jordan-wheeler7.shinyapps.io/cintel-final/|
+| Crop Yield Prediction (Capstone Project) | https://github.com/jordanwheeler7/capstone-crop-yield |
